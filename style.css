@@ -1,0 +1,40 @@
+h1 {
+  font-family: "Noto Sans KR", sans-serif;
+  font-size: 40px;
+}
+
+h2 {
+  font-family: "Noto Sans KR", sans-serif;
+  font-size: 30px;
+  color: brown;
+}
+
+p {
+  font-family: "Noto Sans KR", sans-serif;
+  font-size: 20px;
+}
+
+ul {
+  font-family: "Noto Sans KR", sans-serif;
+}
+
+html {
+  background-color: bisque;
+}
+
+body {
+  background-color: white;
+  border: 1px solid black;
+  width: 1500px;
+  margin: 25px auto;
+  padding: 25px 100px 50px;
+  border-radius: 25px;
+}
+
+a:hover {
+  font-weight: bold;
+}
+
+.a {
+  text-align: center;
+}
